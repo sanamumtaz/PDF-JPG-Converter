@@ -159,7 +159,7 @@ class Toplevel1:
             relx=0.108 if conversion_mode == "jpg" else 0.461,
             rely=0.453 if conversion_mode == "jpg" else 0.36,
             relheight=0.132,
-            relwidth=0.84)
+            relwidth=0.84 if conversion_mode == "jpg" else 0.54)
         self.Message1.configure(anchor='nw')
         self.Message1.configure(background="#d9d9d9")
         self.Message1.configure(foreground="#000000")
