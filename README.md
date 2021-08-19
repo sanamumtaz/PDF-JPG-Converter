@@ -16,7 +16,7 @@ PDF ⇔ JPG converter - Python 3
   - **For Linux:** Most distros ship with `pdftoppm` and `pdftocairo`. If they are not installed, refer to your package manager to install `poppler-utils`.
 - Run `python pdf_jpg_converter.py`
 
-| ![JPG to PDF](https://user-images.githubusercontent.com/35191030/130137429-60b1ef67-239d-484d-88f4-a8c0d66d638b.png) | ![PDF to JPG](https://user-images.githubusercontent.com/35191030/130138144-300131fd-fa20-4305-9c43-57423de0a1ff.png) | ![Successful conversion](https://user-images.githubusercontent.com/35191030/130138374-64e84b9c-c69b-465a-b70c-2290bc2b4ad3.png) |
+| ![JPG to PDF](https://user-images.githubusercontent.com/35191030/130137429-60b1ef67-239d-484d-88f4-a8c0d66d638b.png) | ![PDF to JPG](https://user-images.githubusercontent.com/35191030/130140223-e3041cf0-7ba4-4e7d-be34-434e561c7f4d.png) | ![Successful conversion](https://user-images.githubusercontent.com/35191030/130138374-64e84b9c-c69b-465a-b70c-2290bc2b4ad3.png) |
 |:--:|:--:|:--:|
 |<i>JPG to PDF</i>|<i>PDF to JPG</i>|<i>Successful conversion</i>|
 
