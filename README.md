@@ -10,6 +10,7 @@ PDF ⇔ JPG converter - Python 3
 
 ### Run the program
 - Download the scripts
+- Install packages via pip. `pip install -r requirements.txt`
 - **Download Poppler**
   - **For Windows:** Download ZIP file [@oschwartz10612 version](https://github.com/oschwartz10612/poppler-windows/releases/). Extract it and place `bin` folder in the same directory as the scripts.
   - **For MAC:** Download from [store](https://macappstore.org/poppler/).
